@@ -2,6 +2,8 @@
 
 [![codecov](https://codecov.io/github/jbtronics/settings-bundle/graph/badge.svg?token=2IGGK9MGOW)](https://codecov.io/github/jbtronics/settings-bundle)
 
+Demo source code at https://github.com/gmurambadoro/jbtronics-blogging-demo
+
 # Settings bundle
 
 Settings-bundle is a symfony bundle that let you easily create and manage user-configurable settings, which are changeable via a web frontend.
